@@ -1344,11 +1344,11 @@ pub fn handle_anomaly_detected() -> Result<()> {
 
 ## Related Documents
 
-- **[TECH-002]** Emission Controller Program Specification (blocked by this doc)
-- **[TECH-003]** RBAC Program Specification (blocked by this doc)
-- **[TECH-004]** Loyalty Program Specification (blocked by this doc)
-- **[TECH-005]** System Architecture Overview (dependency)
-- **[TECH-006]** Development Environment Setup (dependency)
+- **[TECH-002](./TECH-002-emission-controller-program.md)** Emission Controller Program Specification (blocked by this doc)
+- **[TECH-003](./TECH-003-rbac-program.md)** RBAC Program Specification (blocked by this doc)
+- **[TECH-004](./TECH-004-loyalty-program.md)** Loyalty Program Specification (blocked by this doc)
+- **[TECH-005](./TECH-005-architecture-map.md)** System Architecture Overview (dependency)
+- **[TECH-006](./TECH-006-solana-dev-environment-setup.md)** Development Environment Setup (dependency)
 
 ---
 

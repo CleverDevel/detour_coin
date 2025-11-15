@@ -1964,9 +1964,9 @@ rm -rf verification_test
 
 ## Related Documents
 
-- **[TECH-001: Core Token Program](./TECH-001-core-token-program.md)** - DetourCoin token implementation
-- **[TECH-005: Architecture Map](./TECH-005-architecture-map.md)** - System architecture overview *(if available)*
-- **[TECH-007: Deployment Procedures](./TECH-007-deployment-procedures.md)** - Deployment guide *(if available)*
+- **[TECH-001: Core Token Program](../01-core_technical/001-core-token-program.md)** - DetourCoin token implementation
+- **[TECH-005: Architecture Map](../01-core_technical/005-architecture-map.md)** - System architecture overview *(if available)*
+- **[TECH-007: Deployment Procedures](../02-deployment_ops/007-deployment-procedures.md)** - Deployment guide *(if available)*
 
 ---
 

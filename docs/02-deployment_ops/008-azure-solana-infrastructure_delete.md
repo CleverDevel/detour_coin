@@ -1,3 +1,5 @@
+** DELETE THIS AFTER NEW FILE IS CREATED **
+
 # Azure Infrastructure for Solana Operations
 
 **Document ID:** OPS-008
